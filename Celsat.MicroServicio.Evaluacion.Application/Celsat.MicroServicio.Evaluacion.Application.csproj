@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Celsat.MicroServicio.Evaluacion.Domain\Celsat.MicroServicio.Evaluacion.Domain.csproj" />
+    <ProjectReference Include="..\Celsat.MicroServicio.Evaluacion.Infraestructure\Celsat.MicroServicio.Evaluacion.Infraestructure.csproj" />
+  </ItemGroup>
+
+</Project>

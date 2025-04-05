@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Celsat.MicroServicio.Evaluacion.Api", "Celsat.MicroServicio.Evaluacion.Api\Celsat.MicroServicio.Evaluacion.Api.csproj", "{30A13E1B-7264-43B1-AA0B-F09E08FD55F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Celsat.MicroServicio.Evaluacion.Application", "Celsat.MicroServicio.Evaluacion.Application\Celsat.MicroServicio.Evaluacion.Application.csproj", "{A5C52763-74FB-4C28-AB23-48A22E58B501}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Celsat.MicroServicio.Evaluacion.Infraestructure", "Celsat.MicroServicio.Evaluacion.Infraestructure\Celsat.MicroServicio.Evaluacion.Infraestructure.csproj", "{76878DDC-7D0D-4A78-B0AB-FF2398D6A656}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Celsat.MicroServicio.Evaluacion.Domain", "Celsat.MicroServicio.Evaluacion.Domain\Celsat.MicroServicio.Evaluacion.Domain.csproj", "{1984E407-8A31-495F-83F3-BC40FAD226F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30A13E1B-7264-43B1-AA0B-F09E08FD55F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30A13E1B-7264-43B1-AA0B-F09E08FD55F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30A13E1B-7264-43B1-AA0B-F09E08FD55F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30A13E1B-7264-43B1-AA0B-F09E08FD55F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5C52763-74FB-4C28-AB23-48A22E58B501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5C52763-74FB-4C28-AB23-48A22E58B501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5C52763-74FB-4C28-AB23-48A22E58B501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5C52763-74FB-4C28-AB23-48A22E58B501}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76878DDC-7D0D-4A78-B0AB-FF2398D6A656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76878DDC-7D0D-4A78-B0AB-FF2398D6A656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76878DDC-7D0D-4A78-B0AB-FF2398D6A656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76878DDC-7D0D-4A78-B0AB-FF2398D6A656}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1984E407-8A31-495F-83F3-BC40FAD226F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1984E407-8A31-495F-83F3-BC40FAD226F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1984E407-8A31-495F-83F3-BC40FAD226F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1984E407-8A31-495F-83F3-BC40FAD226F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
